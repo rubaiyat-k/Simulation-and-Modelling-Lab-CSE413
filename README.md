@@ -9,11 +9,10 @@ Perform addition, subtraction, and multiplication on two 4×4 matrices and visua
 Concepts Covered:<br/>
 Random number generation<br/>
 Data visualization with Matplotlib & Seaborn<br/>
-Basic matrix operations<br/>
+Basic matrix operations<br/><br/>
 Details:<br/>
-University: [Your University Name]<br/>
-Course: [Course Name]<br/>
-Assignment: [Assignment Title]
-Student: [Your Name]<br/>
-(ID: [Your ID])<br/>
+University: University of Information Technology and Sciences<br/>
+Course: Simulation and Modelling Lab<br/>
+Student: Rubaiyat Karim<br/>
+ID: 2215151022<br/><br/>
 This project showcases my skills in data manipulation, visualization, and numerical analysis using Python.
